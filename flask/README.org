@@ -2,11 +2,11 @@
 
 ** Flask Assignment
 
-** Link: ** https://replit.com/join/crypctvbgr-mshuman8
+** Link: https://replit.com/join/crypctvbgr-mshuman8
 
-** Routes ** 
-* * /index 
-* * /random
+** Routes
+- /index 
+- /random
 
 
 
