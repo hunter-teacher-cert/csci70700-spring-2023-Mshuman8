@@ -1,3 +1,18 @@
+* Name: Marisa Shuman
+
+** Flask Assignment
+
+** Link: ** https://replit.com/join/crypctvbgr-mshuman8
+
+** Routes ** 
+/index 
+/random
+
+
+
+
+
+
 * Instructions
 
 ** If you are presenting this unit:
