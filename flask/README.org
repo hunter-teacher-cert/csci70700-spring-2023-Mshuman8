@@ -5,8 +5,8 @@
 ** Link: ** https://replit.com/join/crypctvbgr-mshuman8
 
 ** Routes ** 
-/index 
-/random
+* * /index 
+* * /random
 
 
 
