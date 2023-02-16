@@ -1,0 +1,16 @@
+* Marisa Shuman
+
+* Part 1: Decoding a Message
+
+Repl.it link: https://replit.com/join/kgcfyrgnhw-mshuman8
+(It can also be found in decode1.py)
+
+I used the encryption function that we created and iterated over all the possible shifts to try to find one that worked. In order to test if it worked, I looked to see if the decoded message had the string " THE " as I figured this would be present in any decoded message.
+
+* Part 2: Encoding a Message
+
+Repl.it link: https://replit.com/join/obgtekwydy-mshuman8
+(It can also be found in substitution.py)
+
+
+I created a randomized key for a substitution cipher. From this I then made a dictionary where every letter could be accessed using the key value. 
