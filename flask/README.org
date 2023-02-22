@@ -2,11 +2,13 @@
 
 ** Flask Assignment
 
-** Link: https://replit.com/join/crypctvbgr-mshuman8
+** Link: https://replit.com/join/ycvoklfycb-mshuman8
+
+^^The above is a new link. This link now works with the play button rather than just in the shell.
 
 ** Routes
 - /index 
-- /random
+- /randomFacts
 
 
 
