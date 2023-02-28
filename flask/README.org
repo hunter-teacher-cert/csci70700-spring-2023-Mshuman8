@@ -2,13 +2,14 @@
 
 ** Flask Assignment
 
-** Week 2 Link: ** https://replit.com/join/ycvoklfycb-mshuman8
+** Week 2 Link:
+https://replit.com/join/ycvoklfycb-mshuman8
 
-** Routes ** 
-* * * /
-* * * /index
-* * * /game
-* * * /randomFacts
+** Routes 
+* * /
+* * /index
+* * /game
+* * /randomFacts
 
 * Use of Sessions: 
 * * The first page takes in a UserName -- if the user types "Angle" (my cat's name) then it says not to use the site and to try again. Otherwise it allows the user access to the game picker and random facts.
@@ -19,12 +20,13 @@
 * * The second form is on the /game (the index.html). It allows the user to select from various game qualities to identify the best game to play.
 
 
-** Week 1 Link: ** https://replit.com/join/ycvoklfycb-mshuman8
+** Week 1 Link: 
+https://replit.com/join/ycvoklfycb-mshuman8
 (same as week 2 -- I added to it)
 
-** Routes ** 
-* * * /index 
-* * * /randomFacts
+** Routes
+* * /index 
+* * /randomFacts
 
 
 
